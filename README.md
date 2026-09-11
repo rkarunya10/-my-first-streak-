@@ -1,2 +1,2 @@
 # My First Streak
-Innaiku than en first commit! 🔥
+"Today is my first commit! " 🔥
